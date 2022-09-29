@@ -1,0 +1,15 @@
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.csproj.AssemblyReference.cache
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.AssemblyInfoInputs.cache
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.AssemblyInfo.cs
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.csproj.CoreCompileInputs.cache
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\bin\Debug\net6.0\Eamples003_Sum.exe
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\bin\Debug\net6.0\Eamples003_Sum.deps.json
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\bin\Debug\net6.0\Eamples003_Sum.runtimeconfig.json
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\bin\Debug\net6.0\Eamples003_Sum.dll
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\bin\Debug\net6.0\Eamples003_Sum.pdb
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.dll
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\refint\Eamples003_Sum.dll
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.pdb
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\Eamples003_Sum.genruntimeconfig.cache
+C:\MarkDowN-Git\Exp\Examples\Eamples003_Sum\obj\Debug\net6.0\ref\Eamples003_Sum.dll
