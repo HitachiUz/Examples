@@ -1,0 +1,15 @@
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.exe
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.deps.json
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.runtimeconfig.json
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.dll
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.pdb
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.csproj.AssemblyReference.cache
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.AssemblyInfoInputs.cache
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.AssemblyInfo.cs
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.csproj.CoreCompileInputs.cache
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.dll
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\refint\Examples002_HelloUser.dll
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.pdb
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.genruntimeconfig.cache
+C:\MarkDowN-Git\Exp\Examples\Examples002_HelloUser\obj\Debug\net6.0\ref\Examples002_HelloUser.dll
